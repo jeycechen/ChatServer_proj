@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/user/server/chat/src/server/chatserver.cpp",
+  "file": "/home/user/server/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/user/server/chat/src/server/chatservice.cpp",
+  "file": "/home/user/server/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/friendmodel.cpp.o -c /home/user/server/chat/src/server/friendmodel.cpp",
+  "file": "/home/user/server/chat/src/server/friendmodel.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/user/server/chat/src/server/main.cpp",
+  "file": "/home/user/server/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o -c /home/user/server/chat/src/server/offlinemessagemodel.cpp",
+  "file": "/home/user/server/chat/src/server/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/usermodel.cpp.o -c /home/user/server/chat/src/server/usermodel.cpp",
+  "file": "/home/user/server/chat/src/server/usermodel.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/user/server/chat/src/server/db/db.cpp",
+  "file": "/home/user/server/chat/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/user/server/chat/build/src/server",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/home/user/server/chat/include -I/home/user/server/chat/include/server -I/home/user/server/chat/include/server/db -I/home/user/server/chat/include/server/redis -I/home/user/server/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/user/server/chat/src/server/redis/redis.cpp",
+  "file": "/home/user/server/chat/src/server/redis/redis.cpp"
+}
+]

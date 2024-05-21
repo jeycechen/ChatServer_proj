@@ -1,0 +1,13 @@
+{"msgid":1, "id":1, "password":"123456"} 登录业务
+{"msgid":1, "id":2, "password":"123"} 
+
+{"msgid":5 , "from":"casey", "to":2, "msg":"hello?"} 一对一聊天消息
+
+{"msgid":5 , "from":"zhangsan", "to":1, "msg":"好好好"} 
+{"msgid":3, "name":"zhangsan", "password" : "123"}  注册消息
+
+{"msgid":6, "id":1, "friendid":2} 
+
+./ChatServer 127.0.0.1 6000
+./ChatServer 127.0.0.1 6001
+./ChatServer 127.0.0.1 6002
